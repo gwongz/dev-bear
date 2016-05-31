@@ -1,0 +1,6 @@
+{
+  "name": "Dev Bear",
+  "description": "Personal website for @gwongz",
+  "repository": "https://github.com/gwongz/dev-bear",
+  "keywords": ["node", "express", "react"]
+}

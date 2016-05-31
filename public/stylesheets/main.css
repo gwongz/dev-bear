@@ -1,0 +1,30 @@
+body {
+  background: #eee;
+  width: 80vw;
+  padding: 5rem 10vw;
+  font-size: 1.1rem;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  line-height: 1.5rem;
+  color: rgba(0,0,0, 0.8);
+}
+
+.main {
+  padding: 0 20vw;
+}
+
+h4 {
+  font-size: 1.3rem;
+  font-weight: 100;
+}
+
+a {
+  color: #000;
+
+}
+.img__bear {
+  background-image: url('../bear-unhappy.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 200px;
+}
